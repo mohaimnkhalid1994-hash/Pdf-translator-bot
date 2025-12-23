@@ -1,0 +1,6 @@
+Pdf-translator-bot/
+│
+├── bot.py
+├── requirements.txt
+├── Procfile
+└── runtime.txt
